@@ -1,6 +1,3 @@
----
-layout: default
----
 ## 試しに作っただけ。
 
 僕のblogは[こちら](https://sykyugaming.wordpress.com/)。 
