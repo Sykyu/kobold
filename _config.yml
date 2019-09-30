@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+layout: default
 title: "Sykyu's memo"
 description: "Just a short memo"
 plugins:
