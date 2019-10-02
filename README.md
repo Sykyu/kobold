@@ -2,10 +2,12 @@
 
 適当に書き散らしているだけだから、あまり読んでいて楽しいと思うものではないと思う。
 
-その名の通り、ただの集積場だから。
+その名の通り、ここはただの集積場だから。
 
 TabletopGame系のblogは[こちら](https://sykyugaming.wordpress.com/)。 
 
-[次のページ](https://sykyu.github.io/kobold.github.io/Top/index.html) 
+[InfoCenterへ](https://discord.gg/VGAKS54)
+
+[試験場へ](https://sykyu.github.io/kobold.github.io/Top/index.html) 
 
 
