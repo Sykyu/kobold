@@ -4,10 +4,8 @@
 
 その名の通り、ここはただの集積場だから。
 
-TabletopGame系のblogは[こちら](https://sykyugaming.wordpress.com/)。 
+サイトの奥へ[TestField](https://sykyu.github.io/kobold.github.io/Top/index.html) 
 
-[InfoCenterへ](https://discord.gg/VGAKS54)
+TabletopGame系のblogへ[Report](https://sykyugaming.wordpress.com/)
 
-[試験場へ](https://sykyu.github.io/kobold.github.io/Top/index.html) 
-
-
+Discordへ[InfoCenter](https://discord.gg/VGAKS54)
