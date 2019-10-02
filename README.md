@@ -1,4 +1,4 @@
-## 試しに作っただけ。
+## Welcome to our Drop zone!!
 
 僕のblogは[こちら](https://sykyugaming.wordpress.com/)。 
 
