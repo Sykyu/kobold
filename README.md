@@ -8,4 +8,4 @@
 
 TabletopGame系のblogへ[Report](https://sykyugaming.wordpress.com/)
 
-Discordへ[InfoCenter](https://discord.gg/VGAKS54)
+Discordへ[InfoCenter](https://discord.gg/7bgFQ4V)
