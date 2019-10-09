@@ -4,7 +4,7 @@
 
 その名の通り、ここはただの集積場だから。
 
-サイトの奥へ[TestField](https://sykyu.github.io/kobold.github.io/Top/index.html) 
+サイトの奥へ[TestField](https://sykyu.github.io/kobold/Top/index.html) 
 
 TabletopGame系のblogへ[Report](https://sykyugaming.wordpress.com/)
 
