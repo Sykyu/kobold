@@ -1,5 +1,19 @@
 theme: cayman-hugo-theme
 title: "128th Supply Depot"
 description: "Just a short memo"
+menu:
+  nav:
+    - name: Blog
+      url: https://sykyugaming.wordpress.com/
+      weight: 1
+    - name: Tags
+      url: /tags/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
+    - name: RSS
+      url: /index.xml
+      weight: 4
 github:
   is_project_page: false
