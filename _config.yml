@@ -1,6 +1,10 @@
-theme: cayman-hugo-theme
+languageCode: ja-ap
+defaultContentLanguage: jp
+theme: jekyll-theme-cayman
 title: "128th Supply Depot"
 description: "Just a short memo"
+# Google analytics
+googleAnalytics:
 menu:
   nav:
     - name: Blog
