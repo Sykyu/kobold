@@ -6,6 +6,6 @@
 
 サイトの奥へ[TestField](https://sykyu.github.io/kobold/Top/index.html) 
 
-TabletopGame系のblogへ[Report](https://sykyugaming.wordpress.com/)
+blogへ[Reports](https://sykyugaming.wordpress.com/)
 
 Discordへ[InfoCenter](https://discord.gg/7bgFQ4V)
