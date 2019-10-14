@@ -1,0 +1,81 @@
+
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="./images/apple-touch-icon-180x180.png">
+<meta name="viewport" content="width=device-width">
+<title>Labo02Ba5</title>
+<meta name="description" content="Proj.赤貧">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="mit/jquery-1.9.1.min.js"></script>
+<script src="script.js"></script>
+</head>
+<body>
+
+<div id="menu_button"><span id="menu_button_line"></span></div>
+<div id="overlay"></div>
+
+<header>
+<div id="header_block">
+<div id="site_title"><a href="index.html">Labo02B</a></div>
+<div id="main_menu">
+<nav>
+<ul>
+ <li><a href="about.html">Proj.赤貧</a></li>
+ <li><a href="Component.html">コンポーネント</a></li>
+ <li><a href="Steps.html">ゲームの進行</a></li>
+ <li><a href="#.html">カードリスト</a></li>
+ <li><a href="#.html">ルールＱ＆Ａ</a></li> 
+</ul>
+</nav>
+</div><!-- main_menu END -->
+</div><!-- header_block END -->
+</header>
+
+<article>
+
+<!-- block START -->
+<div class="block">
+<div class="content"> 
+<blockquote>&lt;blockquote&gt; から &lt;/blockquote&gt; </blockquote>
+
+<p></p>
+
+<dl class="faq">
+ <dt><span class="qa">Q.</span>Q&amp;A </dt>
+ <dd><span class="qa">A.</span>Q&amp;A </dd>
+
+ <dt><span class="qa">Q.</span></dt>
+ <dd><span class="qa">A.</span></dd>
+ 
+ <dt><span class="qa">Q.</span></dt>
+ <dd><span class="qa">A.</span></dd>
+</dl>
+
+<p></p>
+<!-- 内容 END -->
+
+</div><!-- content END -->
+</div><!-- block END -->
+
+<!-- ブロック（block START から block END）は、/article より上に配置してください。 -->
+
+</article>
+
+<div id="back_top"><img src="images/back-top.png" alt="トップへ戻る"/></div>
+
+<footer>
+
+<!-- 内容 START -->
+<p>Copyright(C)2019 128th Supply Depot</p> 
+<!-- 内容 END -->
+
+<!-- 下の行を変更したり削除すると、無料テンプレートの利用規約違反となります。 -->
+<p><a href="http://japanism.info/free-template.html" target="_blank" rel="nofollow">Free Template</a></p>
+<!-- 上の行を変更したり削除すると、無料テンプレートの利用規約違反となります。 -->
+
+</footer>
+</body>
+</html>
