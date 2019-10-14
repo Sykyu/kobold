@@ -24,7 +24,7 @@ img {
 	top: 0px;
 	left: 0px;
 	cursor: pointer;
-	z-index: 4;
+	z-index: 5;
 	display: inline-block;
 	width: 45px;
 	height: 45px;
@@ -117,7 +117,7 @@ header {
 	position: fixed;
 	margin-top: -1000px; /* リロード時のメニュー表示を防ぐ */
 	width: 100%;
-	z-index: 3;
+	z-index: 4;
 	background-color: #222837;
 }
 #main_menu > nav > ul {
