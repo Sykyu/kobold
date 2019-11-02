@@ -218,27 +218,16 @@ blockquote {
 	padding-bottom: 5px;
 }
 .table_design1 th {
+	color:white;
 	text-align: left;
 	font-weight: normal;
 	padding: 10px;
 	background-color: #344A33;
 }
 .table_design1 td {
+	color:white;
 	padding: 10px;
 	background-color: #3C563B;
-}
-
-/* テーブルのデザイン */
-.table_design2 {
-	padding-top: 5px;
-	padding-bottom: 5px;
-}
-
-.table_design2 th,td{
-	color:white;
-	text-align: left;
-	font-weight: normal;
-	padding: 10px;	
 	border:double 2px #FFFFFF;
 }
 
