@@ -228,6 +228,20 @@ blockquote {
 	background-color: #3C563B;
 }
 
+/* テーブルのデザイン */
+.table_design2 {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.table_design2 th,td{
+	color:white;
+	text-align: left;
+	font-weight: normal;
+	padding: 10px;	
+	border:double 2px #FFFFFF;
+}
+
 /* faq のデザイン */
 .faq {
 	margin-top: 10px;
