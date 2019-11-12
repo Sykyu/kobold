@@ -251,12 +251,12 @@ blockquote {
 }
 /* === フィルタリスト内のチェックボックス ======== */
 .tfMeisai{
+  color: #000000;
   text-align : left;
   padding    : 2px;
 }
 /* === フィルタリスト内の文字位置合わせ ========== */
 .tfMeisai label{
-  color: #000000;
   padding    : 0 10px 0 3px;
   overflow   : hidden;	
 }
