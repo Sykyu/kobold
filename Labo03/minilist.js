@@ -1,6 +1,6 @@
 ﻿<script type="text/javascript">
  //  フィルタテーブルの共通変数
-var gTabldID = 'Minilist';  // テーブルのエリアのIDを設定
+var gTabldID = 'minilist';  // テーブルのエリアのIDを設定
 var gTfStartRow = 0;
 var gTfColList  = [];             // ボタンが配置されている列番号
 var gTfListSave = {};             // フィルタリストの保存状態
