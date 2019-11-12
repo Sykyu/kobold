@@ -161,7 +161,7 @@ function tFilterCreate(argCol){
  
   rcList += '<div class="tfMeisai">';
   rcList += '<input type="checkbox" id="'+wItemId+'" checked onclick="tFilterAllSet('+argCol+')">';
-  rcList += '<label for="'+wItemId+'">(Select All)</label>';
+  rcList += '<label for="'+wItemId+'">"Select All"</label>';
   rcList += '</div>';
 
 //  列の値でフィルタのチェックボックスを作成する
