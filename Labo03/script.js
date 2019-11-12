@@ -176,7 +176,7 @@ function tFilterCreate(argCol){
 // ---チェックボックスの作成 ------------------------------
       wItemId =  id='tfData_'+argCol+'_r'+i;
       rcList += '<div class="tfMeisai">';
-      rcList += '<input type="checkbox" id="'+wItemId+'" value=="'+wVal+'" checked onclick="tFilterClick('+argCol+')">';
+      rcList += '<input type="checkbox" id="'+wItemId+'" value="'+wVal+'" checked onclick="tFilterClick('+argCol+')">';
       rcList += '<label for="'+wItemId+'">'+( wVal=='' ? '(Space)' : wVal )+'</label>';
       rcList += '</div>';
 // ---重複判定用にチェックボックスの値を保存 --------------
