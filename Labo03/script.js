@@ -160,7 +160,7 @@ function tFilterCreate(argCol){
  
   rcList += '<div class="tfMeisai">';
   rcList += '<input type="checkbox" id="'+wItemId+'" checked onclick="tFilterAllSet('+argCol+')">';
-  rcList += '<label for="'+wItemId+'">(すべて)</label>';
+  rcList += '<label for="'+wItemId+'">(Select All)</label>';
   rcList += '</div>';
 
 //  列の値でフィルタのチェックボックスを作成する
@@ -178,13 +178,13 @@ function tFilterCreate(argCol){
       rcList += '<input type="checkbox" id="'+wItemId+'" value="'+wVal+'" checked onclick="tFilterClick('+argCol+')">';
       rcList += '<label for="'+wItemId+'">'+( wVal=='' ? '(空白)' : wVal )+'</label>';
       rcList += '</div>';
- // ---重複判定用にチェックボックスの値を保存 --------------
+// ---重複判定用にチェックボックスの値を保存 --------------
       wItemSave[wVal]='1';
     }
   }
   rcList += '</form>';
 
-  //  文字抽出のinputを作成
+//  文字抽出のinputを作成
   rcList += '<div class="tfInStr">';
   rcList += '<input type="text" placeholder="include" id="tfInStr_'+argCol+'">';
   rcList += '</div>';
