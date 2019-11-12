@@ -257,6 +257,7 @@ blockquote {
 /* === フィルタリスト内の文字位置合わせ ========== */
 .tfMeisai label{
   padding    : 0 10px 0 3px;
+  overflow   : hidden;	
 }
 /* === OK/CANCELボタン =========================== */
 .tfBtnArea{
